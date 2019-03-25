@@ -1824,6 +1824,44 @@ body {
 .cid-qVAXELPv35 .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rlIpeBOszN {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #f9f9f9;
+  position: relative;
+}
+.cid-rlIpeBOszN .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-rlIpeBOszN .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-rlIpeBOszN .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-rlIpeBOszN .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rlIpeBOszN .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-rlIpeBOszN .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-rlIpeBOszN .card .panel-body {
+  color: #767676;
+}
 .cid-qVB4FIC3BK {
   padding-top: 45px;
   padding-bottom: 90px;
